@@ -1,7 +1,7 @@
 # PSC_MTAG
 Primary Sclerosing Cholangitis (PSC) summary statistics from multi-trait analysis of GWAS (MTAG) against five immune-mediated diseases
 
-Columns for the summary statistics files as follows
+Columns for the summary statistics as follows
 | Column Name | Description |
 |---|---|
 | SNP | variant name |
